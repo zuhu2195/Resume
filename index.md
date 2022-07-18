@@ -1,123 +1,77 @@
----
-layout: default
----
+# Objective
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Talented professional manager seeking to fill a developer role. Hard-working team player
+with proven leadership and organisational skills and seek to apply the same in an
+organisation like yours. Eager to learn new technologies and contribute to the same.
 
-[Link to another page](./another-page.html).
+# Work Experience
 
-There should be whitespace between paragraphs.
+## NonStop Developer - (Sep 2021 - Present)
+#### Hewlett Packard Enterprise
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Worked in diverse product teams to deliver quality work. Helped in fixing major and
+minor errors in XLD linker. Successfully ported Python versions to Nonstop. Working
+on understanding of Go Memory Model for Porting of GoLang to our Servers.
 
-# Header 1
+Porting of Python releases to NonStop servers by appplying domain specific knowledge
+of NonStop. Debugging python C source files to make python compatible with NonStop.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Intern - (Feb 2021 - Aug 2021)
+#### Hewlett Packard Enterprise
 
-## Header 2
+Worked with OpenSSL to convert RPC calls in one of the Products to respective
+OpenSSL calls using XDR library to encode data to provide cross compatibility
+among platforms.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Education
 
-### Header 3
+## Engineering BE - (May 2017 - Aug 2021)
+#### Sri Jayachamrajendra College of Engineering Mysore
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Secured 9.72 CGPA with a 2nd Rank in Computer Science and Engineering
+Department
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 12th CBSE Board - 2017
+#### Kendriya Vidyalaya Mysore
 
-#### Header 4
+Secured 93.2 Percent
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 10th CBSE Board - 2015
+#### Manasarowara Pushkarini Vidyashrama
 
-##### Header 5
+Secured 10 CGPA
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Technical Skills
 
-###### Header 6
+1.  C,C++
+2.  Python
+3.  Numpy
+4.  Pandas
+5.  Data Structures
+6.  Algorithms
+7.  Git Basics
+8.  Linux Command Line Basics
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+#### Other Activities
 
-### There's a horizontal rule below this.
+*   Student of the Smite Muay Thai academy.
+*   Huge fan of Sci-Fi Movies
 
-* * *
+### Personal Strengths
 
-### Here is an unordered list:
+*   Flexibility and Adaptability
+*   Learning Agility
+*   Critical Thinking and Decision Making skills
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Achievements
 
-### And an ordered list:
+*   Rank 2 in BE Computer Science and Engineering
+*   Member of Google Developers Student Club from 2018-2021
+*   Muay Thai White Belt
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### Personal Profile
 
-### And a nested list:
+*   Date of Birth: 3rd Apr 1999
+*   Languages Known: English, Hindi, Kannada
+*   Native: Mysore(Karnataka)
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

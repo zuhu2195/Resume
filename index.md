@@ -1,6 +1,6 @@
 # Objective
 
-Talented professional manager seeking to fill a developer role. Hard-working team player
+Talented professional seeking to fill a developer role. Hard-working team player
 with proven leadership and organisational skills and seek to apply the same in an
 organisation like yours. Eager to learn new technologies and contribute to the same.
 
